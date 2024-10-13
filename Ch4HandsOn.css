@@ -1,0 +1,171 @@
+
+
+.Free-Heading
+{
+    border: 2px solid;
+    border-radius: 20px;
+}
+.FSUP
+{
+    margin-bottom: 30px;
+}
+
+#Free
+{
+    margin-left: 1000px;
+    margin-top: 100px;
+    margin-bottom: 70px;
+}
+
+#Monthly10,#memory512MB,#transfer1TB, #SSD200, #vCPU1,  #FreeSignUp
+{
+    margin-left: 400px;
+    font-weight: normal;
+    margin-top: 20px;
+}
+#Monthly10
+{
+    margin-left:700px ;
+}
+#memory512MB
+{
+    margin-left: 840px;
+    margin-top: -38px;
+}
+
+#transfer1TB
+{
+    margin-left: 999px;
+    margin-top: -36px;
+}
+
+#SSD200
+{
+    margin-left: 1170px;
+    margin-top: -38px;
+}
+
+#vCPU1
+{
+    margin-left: 1400px;
+    margin-top: -38px;
+}
+
+#FreeSignUp
+{
+
+    margin-left: 1000px;
+    margin-bottom: 20px;
+    
+}
+.Standard-Heading
+{
+    margin-top: 50px;
+    border: 2px solid;
+    border-radius: 20px;
+}
+ #Monthly25, #memory1GB,#transfer2TB, #SSD40, #vCPU2, #StandardSignUp
+{
+    margin-left: 400px;
+    font-weight: normal;
+}
+#Standard
+{
+    margin-left: 1000px;
+    margin-top: 100px;
+    margin-bottom: 70px;
+}
+
+#Monthly25
+{
+    margin-left:700px;
+}
+
+#memory1GB
+{
+    margin-left: 840px;
+    margin-top: -38px;
+}
+
+#transfer2TB
+{
+    margin-left: 999px;
+    margin-top: -36px;
+}
+
+#SSD40
+{
+    margin-left: 1170px;
+    margin-top: -38px;
+}
+
+#vCPU2
+{
+    margin-left: 1400px;
+    margin-top: -38px;
+}
+
+#StandardSignUp
+{
+    margin-left: 1000px;
+    
+}
+.SSUP
+{
+    margin-bottom: 30px;
+}
+.Professional-Heading
+{
+    margin-top: 50px;
+    border: 2px solid;
+    border-radius: 20px;
+}
+.PSUP
+{
+    margin-bottom: 30px;
+}
+ #Monthly50, #memory16GB,#transfer6TB,#SSD80,#vCPU8,#ProfessionalSignUp
+{
+    margin-left: 400px;
+    font-weight: normal;
+}
+
+#Professional
+{
+    margin-left: 1000px;
+    margin-top: 100px;
+    margin-bottom: 70px;
+}
+
+#Monthly50
+{
+    margin-left:700px ;
+}
+#memory16GB
+{
+    margin-left: 840px;
+    margin-top: -38px;
+
+}
+#transfer6TB
+{
+    margin-left: 999px;
+    margin-top: -36px;
+}
+
+#SSD80
+{
+    margin-left: 1170px;
+    margin-top: -38px;
+}
+
+#vCPU8
+{
+    margin-left: 1400px;
+    margin-top: -38px;
+}
+
+#ProfessionalSignUp
+{
+    margin-left: 1000px;
+}
